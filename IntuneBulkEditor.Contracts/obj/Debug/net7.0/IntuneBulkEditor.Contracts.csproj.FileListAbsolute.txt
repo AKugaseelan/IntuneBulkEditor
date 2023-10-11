@@ -1,0 +1,11 @@
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\bin\Debug\net7.0\IntuneBulkEditor.Contracts.deps.json
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\bin\Debug\net7.0\IntuneBulkEditor.Contracts.dll
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\bin\Debug\net7.0\IntuneBulkEditor.Contracts.pdb
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\IntuneBulkEditor.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\IntuneBulkEditor.Contracts.AssemblyInfoInputs.cache
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\IntuneBulkEditor.Contracts.AssemblyInfo.cs
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\IntuneBulkEditor.Contracts.csproj.CoreCompileInputs.cache
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\IntuneBulkEditor.Contracts.dll
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\refint\IntuneBulkEditor.Contracts.dll
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\IntuneBulkEditor.Contracts.pdb
+C:\Dev\IntuneBulkEditor\IntuneBulkEditor.Contracts\obj\Debug\net7.0\ref\IntuneBulkEditor.Contracts.dll
